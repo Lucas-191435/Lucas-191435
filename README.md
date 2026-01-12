@@ -13,8 +13,5 @@ Apaixonado por tecnologia e aprender coisas novas!
 - Node / Adonis  
 - Postgres / Mongo
 
-## 📊 Status Github
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-191435&show_icons=true)
-
 ## 🌱 Projetos fixados
 👉 Confira os pins acima 😄
