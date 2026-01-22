@@ -5,7 +5,7 @@
 📍 Sorocaba – Brasil
 
 ## 🌟 Sobre mim
-Apaixonado por tecnologia e aprender coisas novas!
+Desenvolver sistemas web e mobile
 
 ## 🔧 Tecnologias que uso
 - JS / TS  
