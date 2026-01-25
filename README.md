@@ -10,8 +10,9 @@ Desenvolver sistemas web e mobile
 ## 🔧 Tecnologias que uso
 - JS / TS  
 - React / Next  
-- Node / Adonis  
-- Postgres / Mongo
+- Node / Nest / Prisma  
+- Angular / Firebase / Flutter
+- React Native / Expo 
 
 ## 🌱 Projetos fixados
 👉 Confira os pins acima 😄
