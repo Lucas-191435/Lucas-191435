@@ -15,4 +15,4 @@ Desenvolver sistemas web e mobile
 - React Native / Expo 
 
 ## 🌱 Projetos fixados
-👉 Confira os pins acima 😄
+👉 Confira os pins 😄
