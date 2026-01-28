@@ -1,3 +1,7 @@
+## 📊 GitHub Stats
+
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-191435&show_icons=true&theme=dark)
+
 # 👋 Olá, eu sou Lucas!
 
 💻 Desenvolvedor Fullstack  
