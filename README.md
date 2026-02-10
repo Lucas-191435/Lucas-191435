@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou Lucas!
 
-💻 Desenvolvedor Fullstack  
+💻 Desenvolvedor Fullstack - JR
 🚀 JavaScript | React | Node | AdonisJS  
 📍 Sorocaba – Brasil
 
 ## 🌟 Sobre mim
-Sou desenvolvedor Full Stack JavaScript, com experiência em projetos utilizando React, Next.js, Angular, Prisma, NestJS, AdonisJS, Express, Axios e GraphQL.
+Sou desenvolvedor Full Stack JavaScript, com experiência em projetos utilizando React, Next.js | Angular | Prisma | NestJS | AdonisJS | Express | Axios | GraphQL.
 Também possuo experiência em desenvolvimento mobile, trabalhando com Flutter e React Native (Expo).
 
 Já atuei com o banco de dados não relacional Firebase, desenvolvendo Cloud Functions, utilizando o Firebase Storage para gerenciamento de arquivos e realizando integração e envio de dados para o BigQuery.
@@ -17,16 +17,5 @@ Já atuei com o banco de dados não relacional Firebase, desenvolvendo Cloud Fun
 - Angular / Firebase / Flutter
 - React Native / Expo 
 
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lucas-191435&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-191435&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
 ## 🌱 Projetos fixados
 👉 Confira os pins 😄
