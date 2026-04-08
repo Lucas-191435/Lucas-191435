@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas!
 
-💻 Desenvolvedor Fullstack - JR
+💻 Desenvolvedor Fullstack
 🚀 JavaScript | React | Node | AdonisJS  
 📍 Sorocaba – Brasil
 
